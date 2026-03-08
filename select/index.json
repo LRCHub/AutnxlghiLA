@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "bo2",
+  "base_artist": "山田ギャル神宮",
+  "createdAt": "2026-03-08T06:08:59.284809Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BO2 (Intro)",
+      "artist": "Method Man feat. Redman",
+      "has_synced": true,
+      "path": "select/01_BO2_(Intro)_Method_Man_feat._Redman.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "bo2 zombies",
+      "artist": "Frat Mouse",
+      "has_synced": true,
+      "path": "select/02_bo2_zombies_Frat_Mouse.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "bo2 zombies - Acoustic",
+      "artist": "Frat Mouse",
+      "has_synced": false,
+      "path": "select/03_bo2_zombies_-_Acoustic_Frat_Mouse.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BO2 (Intro)",
+      "artist": "Method Man",
+      "has_synced": true,
+      "path": "select/04_BO2_(Intro)_Method_Man.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BO2 (Intro)",
+      "artist": "Method Man & Redman",
+      "has_synced": true,
+      "path": "select/05_BO2_(Intro)_Method_Man_&_Redman.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "BO2 (Intro)",
+      "artist": "Method Man And Redman",
+      "has_synced": true,
+      "path": "select/06_BO2_(Intro)_Method_Man_And_Redman.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BO2 (Intro) (Album Version Explicit)",
+      "artist": "Method Man",
+      "has_synced": true,
+      "path": "select/07_BO2_(Intro)_(Album_Version_Explicit)_Method_Man.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BO2 (Intro) (Album Version (Explicit))",
+      "artist": "Method Man, Redman",
+      "has_synced": true,
+      "path": "select/08_BO2_(Intro)_(Album_Version_(Explicit))_Method_Man,_Redman.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "bo2 zombies - Acoustic",
+      "artist": "Mouse, Frat",
+      "has_synced": false,
+      "path": "select/09_bo2_zombies_-_Acoustic_Mouse,_Frat.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "BO2 (Intro)",
+      "artist": "Method Man\u0000Redman",
+      "has_synced": true,
+      "path": "select/10_BO2_(Intro)_Method_Man\u0000Redman.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "BO2 (Intro) (Album Version Edited)",
+      "artist": "Method Man",
+      "has_synced": true,
+      "path": "select/11_BO2_(Intro)_(Album_Version_Edited)_Method_Man.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "BO2 (Intro)",
+      "artist": "Redman",
+      "has_synced": true,
+      "path": "select/12_BO2_(Intro)_Redman.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Imma Try It Out (BO2 Version)",
+      "artist": "Skrillex feat. Alvin Risk",
+      "has_synced": true,
+      "path": "select/13_Imma_Try_It_Out_(BO2_Version)_Skrillex_feat._Alvin_Risk.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "BO2",
+      "artist": "Altr",
+      "has_synced": false,
+      "path": "select/14_BO2_Altr.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Acoustic - bo2 zombies",
+      "artist": "Various",
+      "has_synced": false,
+      "path": "select/15_Acoustic_-_bo2_zombies_Various.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "bo2",
+      "artist": "山田ギャル神宮",
+      "has_synced": false,
+      "path": "select/pl_01_bo2_山田ギャル神宮.txt"
+    }
+  ]
+}
